@@ -1,0 +1,23 @@
+LIST OF PRACTICAL QUESTIONS:
+
+1. Write a Python program to calculate the factorial of an integer number.
+
+2. Write a Python program to calculate the sum of all positive and negative numbers from the list of N numbers.
+
+3. Write a Python program to calculate the sum of all even and odd numbers from the list of N numbers.
+
+4. Write a Python program to calculate the area and circumference of a circle.
+
+5. Write a Python program to calculate the simple interest.
+
+6. Write a Python program to find the sum and average from the list of N numbers.
+
+7. Write a Python program to count the no. of occurrences of an element in a list using function.
+
+8. Write a Python program to traverse a list using for-loop.
+
+9. Write a Python program to calculate:  S = 1 + x + x^2 + x^3 + ... + x^n
+
+10. Write a Python program to implement stack using list.
+
+11. Write a Python program to implement binary search.
